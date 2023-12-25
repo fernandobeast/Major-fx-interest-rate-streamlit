@@ -11,7 +11,7 @@
 - EUR
 - HKD
 
-**Tip:** The scrape function in "Auto_IR_scrape.py" will only update the recent interest rate.
+**Tip:** The scrape function in "Auto_IR_scrape.py" only updates the recent interest rate. To extract historical data, a small data transformation tweak is required.
 
 **Data Source:** [Investing.com](https://www.investing.com/economic-calendar/)
 
