@@ -15,7 +15,7 @@
 
 **Data Source:** [Investing.com](https://www.investing.com/economic-calendar/)
 
-## snipshots
+## Snapshots
 
 ![plot](./pics/bar_chart.png)
 
